@@ -1,0 +1,54 @@
+﻿  stdafx.cpp
+  DateStatic.cpp
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(111): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(111): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\datestatic.cpp(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  GetLeap.cpp
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\getleap.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  GetThrottle.cpp
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\getthrottle.cpp(60): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\getthrottle.cpp(90): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\getthrottle.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\getthrottle.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  LunarSolarConverter.cpp
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(230): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(274): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(275): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(278): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(279): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(281): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(254): warning C4101: “Local”: 未引用的局部变量
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(255): warning C4101: “t”: 未引用的局部变量
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\lunarsolarconverter.cpp(295): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  multifunction-calendar-c.cpp
+  MyMenu.cpp
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\mymenu.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\mymenu.cpp(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  SearchDate.cpp
+c:\users\94438\desktop\multifunction-calendar-c\multifunction-calendar-c\searchdate.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  multifunction-calendar-c.vcxproj -> C:\Users\94438\Desktop\multifunction-calendar-c\Debug\multifunction-calendar-c.exe
